@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#ASSETS PACK
+Content/StarterContent
+Content/StarterBundle
+Content/Geometry
+Content/Stylized_Meadow_v20
+Content/Collections
+Content/Developers
+content/ParagonMinions
+Content/
